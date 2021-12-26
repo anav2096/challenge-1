@@ -4,8 +4,8 @@
 [Visit the website here](https://anav2096.github.io/challenge-1/)
 
 Example Code Refactor Screenshot
-![screenshot](Develop/assets/images/screenshotcode.png)
+![screenshot](assets/images/screenshotcode.png)
 
 Example Web Page Screenshot
-![screenshot](Develop/assets/images/screenshotpage.png)
+![screenshot](assets/images/screenshotpage.png)
 
